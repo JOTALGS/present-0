@@ -24,7 +24,7 @@ Here is a quick demonstration of _printf in action:
 ## Prequisites Fron-end
 install Node.js
 
-install [Vue3](#Install Vue3)
+install [Vue3](#Install-Vue3)
 
 install axios
 ```
