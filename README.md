@@ -20,14 +20,15 @@ intall vue, more help: https://vuejs.org/guide/quick-start
 ```
  npm init vue@<verison> / npm init vue@latest
 ```
-✔ Project name: … <your-project-name>
-✔ Add TypeScript? … No
-✔ Add JSX Support? … No
-✔ Add Vue Router for Single Page Application development? … Yes
-✔ Add Pinia for state management? … Yes
-✔ Add Vitest for Unit testing? … No
-✔ Add an End-to-End Testing Solution? … No
-✔ Add ESLint for code quality? … No
+
+* Project name: … <your-project-name>
+* Add TypeScript? … No
+* Add JSX Support? … No
+* Add Vue Router for Single Page Application development? … Yes
+* Add Pinia for state management? … Yes
+* Add Vitest for Unit testing? … No
+* Add an End-to-End Testing Solution? … No
+* Add ESLint for code quality? … No
 
 ```
  cd <your-project-name>
