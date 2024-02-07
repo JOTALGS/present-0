@@ -46,7 +46,7 @@ install django rest framework
  pip install djangorestframework
 ```
 
-install django rest framework
+install django rest framework simple jwt
 ```
  pip install djangorestframework-simplejwt
 ```
